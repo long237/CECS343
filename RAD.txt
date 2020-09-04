@@ -1,0 +1,61 @@
+RAD
+
+I)Introduction:
+	1.1)Purpose: Describe in detail what the system will do or will not do
+		Ex:An online library system with the ability to borrow and return books. For security reason, late fee will not be available.
+
+	1.2)Document conventions:
+		-What does different color means?
+		-Else if you don't have any say it
+		Ex: Red text for a nuclear reactor means dangerous warning.
+
+	1.3)Intended Audience and Reading Suggestion:
+		-Provide shortcuts to different section: legal, technical,... for share holders, lawyers,...
+
+	1.4)Product Scope:
+		-The purpose of having this system
+		-You can type in: "The purpose of this is to satisfy my 343 requirements
+		-Goal of the software
+	
+	1.5)References
+		-Anything to allow the person reading this document to know more
+		-Ex: link to C++ or Java documentation
+		-Anything that not common sense to the readers
+
+II)Overall Description
+	2.1)Product Perspective:
+		-The origin of the product
+
+	2.2)Product Function:
+		-List of Use Cases Names
+	
+	2.3)Operating System:
+		-What system your software will run on
+	
+	2.4)Design and Implementation Constraints:
+		-What things you cannot do
+		-Software has to comply with some requirements
+	
+	2.5)User Documentation:
+		-Any help?
+		-If no just say no
+
+	2.6)Assumptions and Dependecies:
+		-Third parties software that you plan on using
+		-List things you want to use 
+		-Consider what you can and cannot use
+
+III)User Interface Requirements:
+
+	3.1)User Interfaces:
+		-Provide picture or draw the user interface for each use cases
+
+	3.2)Hardware Interfaces:
+		-VR systems if it will be use
+
+	3.3)Software Interfaces:
+		-Specify what you plan on using
+		-What libraries are you using?
+		-Does this version of software works with that?
+
+	3.4)

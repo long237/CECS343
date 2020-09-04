@@ -1,0 +1,22 @@
+Use cases
+
+I)Definition:
+	-Anything that the users look at and say their system need it is a use cases
+	-Use cases contents:
+		1)Actors
+		2)Pre-Conditions
+		3)Flow on control
+		4)Post-Conditions
+		5)Error-Conditions
+		6)Non-Functional Requirements
+	-You can assume that one stage is successfully pass to continue the flow of the program
+	
+	-Left column will be what the users did ----> the right column is what the system does to the user actions.
+	-Write the flow of control as it does not have any error
+
+II)Non-funtional requirements:
+	-Usability: is GUI
+	-Not always have to list nonfuntional requirements
+
+
+	
