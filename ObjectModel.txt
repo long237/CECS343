@@ -1,0 +1,67 @@
+Pieces of an object
+
+Classes
+Associations (Relations)
+	+Generric associations
+	+CAnonical associations
+
+-Operations:
+	+Detection of operations
+	+Generic operations: Get/Set, general knowledge, design patterns
+	+Domain operations: dynamic model, fuctional model
+
+-Attributes:
+	+Find a attributes
+
+
+II)Class Indentification:
+	-Finding objects is important
+	-Look for nouns
+	-Methods look for verbs
+	-Learn about problem domain: Observe your client
+
+	-Finding objs in use cases: methods and objects in use cases.
+
+III)Object types:
+	1.Entity Objects:
+		+Real world phycical objects: checks, items, customers, saleperson
+		+Very persistent
+	2.Boundary Objects:
+		+In our case: human being (but not all the time)
+		+Graphical user interface
+	
+	3.Control Objects:
+		+Represent control taskes performed by system	
+	
+	-Interface changes more likely than control
+	-Control change more likely than application domain
+	-Model, view, controller model. 
+	-Different controllers does not mean multiple different mains.
+
+IV)How do you find classes?
+	-Nouns are good for classes
+	-Verbs are good for operations or methods
+
+	Distinguish different types of objects
+	Apply design pattern
+
+V)Method list:
+	-Description: descripe the method
+	-Precondition:
+	-Always have postconditions. (What the methods do after being called)
+	-Signature: method signature
+
+VI)Relationships between class: 
+	_________	Association	two way relationship
+
+	________|>	Inheritance	is-a
+
+	---------S>	Realization
+
+	--------->	Dependency	one way relationship
+
+	<>_______	Aggregation	
+
+	<S>______	Composition	has-a
+
+

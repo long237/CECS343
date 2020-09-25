@@ -1,0 +1,32 @@
+
+Main Menu
+Manage Items
+Manage Salesperson/Commission
+Manage Invoices
+Manage Account
+Manage Warehouse
+	
+	Manage Items:
+Add new products
+Add quantity
+Display inventory (sorted by decreasing profit percent)
+Display low amount items (less than 5, increasing order by quantity)
+Display quantity by warehouse (quantity in stock)
+
+	Manage Salesperson/commission
+Change commission rate
+Display salesperson and amount
+Add salesperson
+Remove salesperson
+
+Invoices
+Create Invoice
+View/Edit Invoices (which are closed (paid), decreasing order of invoice amount)
+
+View Invoices
+View Open Invoices
+View Closed Invoices
+
+
+Manage Account: (might not be needed)
+Change password
